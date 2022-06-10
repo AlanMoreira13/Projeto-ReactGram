@@ -1,4 +1,4 @@
-# Projoto-ReactGram
+# Projeto-ReactGram
 ### <em>Sobre o projeto</em>: 
 Trata-se de uma rede social semelhante ao Instagram, um projeto em que pude me desafiar ao extremo, utilizando techs que ainda não havia praticado, como MongoDb. Falando nele, foi o que utilizei para backend: Uploads de imagens, posts, dados de usuário para login, etc. No frontend utilizei de hooks, contexts, services. slices, react-router-dom para rotas, etc.
 <hr>
