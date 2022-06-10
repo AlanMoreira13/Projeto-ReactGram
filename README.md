@@ -35,7 +35,7 @@ Trata-se de uma rede social semelhante ao Instagram, um projeto em que pude me d
 
 ## Funcionalidade do <em>Like:</em>
 ↘ ⬇ ↙
-![Captura de Tela (66)](https://user-images.githubusercontent.com/88805398/173136860-8ce6a8fc-96dd-44c0-b5e6-c2f389d35ea8.png)
+![localhost_3000_search_q=dia (1)](https://user-images.githubusercontent.com/88805398/173142787-d4378752-3da5-43d7-ae27-638d9b76b680.png)
 
 
 ## Funcionalidade do <em>comentário:</em>
@@ -44,4 +44,7 @@ Trata-se de uma rede social semelhante ao Instagram, um projeto em que pude me d
 
 ## Funcionalidade de pesquisa:
 ↘ ⬇ ↙
+![localhost_3000_search_q=dia](https://user-images.githubusercontent.com/88805398/173142182-9ba1cf36-dc11-4d2a-bfd7-c7d19e472eed.png)
+
+
 
