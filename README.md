@@ -14,7 +14,7 @@ Trata-se de uma rede social semelhante ao Instagram, um projeto em que pude me d
 ✔ Routes <br> 
 
 ### Techs/Features frontend: 
-✔ Components <br>
+✔ Components  <br>
 ✔ Hooks (useState, useEffect, useMemo, useLocation, customHook...) <br>
 ✔ react-icons/bs <br>
 ✔ react-router-dom (BrowserRouter, Routes, Route, Navigate, Link, NavLink) <br>
