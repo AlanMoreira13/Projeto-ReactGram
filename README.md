@@ -11,7 +11,7 @@ Trata-se de uma rede social semelhante ao Instagram, um projeto em que pude me d
 ✔ Controllers <br>
 ✔ Middlewares  <br>
 ✔ Models <br>
-✔ Routes  <br> 
+✔ Routes <br> 
 
 ### Techs/Features frontend: 
 ✔ Components  <br>
