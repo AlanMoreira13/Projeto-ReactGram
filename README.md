@@ -9,7 +9,7 @@ Trata-se de uma rede social semelhante ao Instagram, um projeto em que pude me d
 ✔ Local Storage <br>
 ✔ Criação e Consumo de API<br>
 ✔ Controllers <br>
-✔ Middlewares  <br>
+✔ Middlewares <br>
 ✔ Models <br>
 ✔ Routes <br> 
 
