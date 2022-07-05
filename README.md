@@ -5,7 +5,7 @@ Trata-se de uma rede social semelhante ao Instagram, um projeto em que pude me d
 <hr>
 
 ### Techs/Features backend:
-✔ MongoDB Atlas (mongoose, Schema)  <br>
+✔ MongoDB Atlas (mongoose, Schema) <br>
 ✔ Local Storage <br>
 ✔ Criação e Consumo de API<br>
 ✔ Controllers <br>
